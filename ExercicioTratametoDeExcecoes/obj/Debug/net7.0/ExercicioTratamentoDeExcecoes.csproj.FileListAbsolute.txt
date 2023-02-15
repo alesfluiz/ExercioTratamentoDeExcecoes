@@ -1,0 +1,15 @@
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\bin\Debug\net7.0\ExercicioTratamentoDeExcecoes.exe
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\bin\Debug\net7.0\ExercicioTratamentoDeExcecoes.deps.json
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\bin\Debug\net7.0\ExercicioTratamentoDeExcecoes.runtimeconfig.json
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\bin\Debug\net7.0\ExercicioTratamentoDeExcecoes.dll
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\bin\Debug\net7.0\ExercicioTratamentoDeExcecoes.pdb
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\obj\Debug\net7.0\ExercicioTratamentoDeExcecoes.csproj.AssemblyReference.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\obj\Debug\net7.0\ExercicioTratamentoDeExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\obj\Debug\net7.0\ExercicioTratamentoDeExcecoes.AssemblyInfoInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\obj\Debug\net7.0\ExercicioTratamentoDeExcecoes.AssemblyInfo.cs
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\obj\Debug\net7.0\ExercicioTratamentoDeExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\obj\Debug\net7.0\ExercicioTratamentoDeExcecoes.dll
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\obj\Debug\net7.0\refint\ExercicioTratamentoDeExcecoes.dll
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\obj\Debug\net7.0\ExercicioTratamentoDeExcecoes.pdb
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\obj\Debug\net7.0\ExercicioTratamentoDeExcecoes.genruntimeconfig.cache
+C:\Users\ALESF LUIZ\PROJETOS\ExercicioTratametoDeExcecoes\ExercicioTratametoDeExcecoes\obj\Debug\net7.0\ref\ExercicioTratamentoDeExcecoes.dll
